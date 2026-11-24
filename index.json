@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "registry_version": "1.0.0",
+  "min_yago_version": "0.1.0",
+  "updated_at": "2026-11-24T11:29:40Z",
+  "entries": [
+    {
+      "path": "effects/effects.json",
+      "category": "effect",
+      "sha256": "13251ad3d9281632ee562f7bfc4e5a8400e4952ee1cb08b0c1621a815f8b1870",
+      "size_bytes": 667
+    },
+    {
+      "path": "fixers/genshin.json",
+      "category": "fixer",
+      "sha256": "0b7ca83ae5ceaab63e4ba105717572b78cd624699ddaaf14d9dbdbf44ecad8f2",
+      "size_bytes": 248
+    },
+    {
+      "path": "fixers/wuwa.json",
+      "category": "fixer",
+      "sha256": "6b90ddbc0a661da2446e1c297a19d9426dd741ac4b6cd2f6919b6ed7a9fb15e6",
+      "size_bytes": 201
+    },
+    {
+      "path": "fixers/zzz.json",
+      "category": "fixer",
+      "sha256": "5617f855f2cbdb6f5378efdca7df513fc255b99b60570ada82f83b2898e682d6",
+      "size_bytes": 202
+    },
+    {
+      "path": "games/endfield.json",
+      "category": "game",
+      "sha256": "324694f5c626d6edc6e93343c7115c6703ecaf40fc231eba1097f99db88dc010",
+      "size_bytes": 897
+    },
+    {
+      "path": "games/genshin.json",
+      "category": "game",
+      "sha256": "eb2c9bfac43070b5e3a55af90bef8b6056f260fc1337f378f150102df343315e",
+      "size_bytes": 1282
+    },
+    {
+      "path": "games/hi3.json",
+      "category": "game",
+      "sha256": "86e8a165fea3a2d9dd83db3ec84277af12433392d6a8b84e2ad83865b1cde420",
+      "size_bytes": 1115
+    },
+    {
+      "path": "games/hsr.json",
+      "category": "game",
+      "sha256": "ddf6e4b5c018351305b41776daa926a1b16dcd4f214d646a07425a6be00f88fd",
+      "size_bytes": 1211
+    },
+    {
+      "path": "games/wuwa.json",
+      "category": "game",
+      "sha256": "635d48c885d6ada579e6ba31b654df23fd89603177a9dfd20e5dba08c33b5be8",
+      "size_bytes": 939
+    },
+    {
+      "path": "games/zzz.json",
+      "category": "game",
+      "sha256": "83f5a6603f8eaae052493386162e4a090e40eb8a468d662f2bdbac5c28face0c",
+      "size_bytes": 1199
+    },
+    {
+      "path": "hashes/endfield.exe.json",
+      "category": "hash",
+      "sha256": "a5670a6f89e032c488b68b7788231bcec37b60e4017352d5838adeb1201489f6",
+      "size_bytes": 145
+    },
+    {
+      "path": "hashes/genshinimpact.exe.json",
+      "category": "hash",
+      "sha256": "e8375fd8d7a42eb29f3d33f97b64c0bc06c9f986bc94d36e8f7ced4e4f716be4",
+      "size_bytes": 32255
+    },
+    {
+      "path": "hashes/starrail.exe.json",
+      "category": "hash",
+      "sha256": "fcf713bb9c7813f5e742e8f0d3fb3c3ef5413e0c56c264f10438eeb4fed125d6",
+      "size_bytes": 26006
+    },
+    {
+      "path": "hashes/zenlesszonezero.exe.json",
+      "category": "hash",
+      "sha256": "b320e2965aae31cbd9f61791462f85de98fb6e082bde291630057fd70380612b",
+      "size_bytes": 39203
+    },
+    {
+      "path": "loaders/vfs-direct.json",
+      "category": "loader",
+      "sha256": "f4acd7936523337772ab24d2ef1c8eea51526a3ec39f29b5abd6024fdee584ff",
+      "size_bytes": 282
+    },
+    {
+      "path": "loaders/xxmi-3dmigoto.json",
+      "category": "loader",
+      "sha256": "3748be58e2a8f0ca00941f958488d752dc8dcb0240565d40653b8997d5c903a8",
+      "size_bytes": 575
+    },
+    {
+      "path": "runners/proton-sources.json",
+      "category": "runner",
+      "sha256": "e174c15219629fcca7f3017f9a92a22ad3e144957d50d28923e5d7de3a22edd3",
+      "size_bytes": 519
+    },
+    {
+      "path": "scripts/audits/rogue_ini_check.rhai",
+      "category": "script",
+      "sha256": "0501f2b7b14f17d3502508ec75302299ada67a24b367f70359a8f82cd7571dff",
+      "size_bytes": 386
+    }
+  ]
+}

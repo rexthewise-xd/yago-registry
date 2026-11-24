@@ -1,0 +1,9 @@
+{
+  "game_id": "wuwa",
+  "version": "1.0.0",
+  "description": "Wuthering Waves Model Patcher",
+  "hash_migrations": {},
+  "slot_remaps": [],
+  "apply_orfix": false,
+  "face_fix_ps_t0_to_this": false
+}

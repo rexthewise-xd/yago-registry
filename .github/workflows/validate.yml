@@ -1,0 +1,24 @@
+name: Validate Registry
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Rebuild and verify index.json integrity
+        run: |
+          python3 scripts/build_index.py
+          git diff --exit-code index.json || (echo "ERROR: index.json is out of date. Run 'python3 scripts/build_index.py' and commit the result." && exit 1)

@@ -1,0 +1,13 @@
+{
+  "id": "vfs-direct",
+  "name": "Direct VFS Linker",
+  "common_libs_repo": null,
+  "strategy": "vfs_direct",
+  "proxy_files": [],
+  "support_dirs": [],
+  "mods_target_dir": "Mods",
+  "config_file": null,
+  "reload_key": null,
+  "dll_overrides": null,
+  "shader_fixes_dir": null
+}

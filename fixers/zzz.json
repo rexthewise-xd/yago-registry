@@ -1,0 +1,9 @@
+{
+  "game_id": "zzz",
+  "version": "1.0.0",
+  "description": "Zenless Zone Zero Model Patcher",
+  "hash_migrations": {},
+  "slot_remaps": [],
+  "apply_orfix": false,
+  "face_fix_ps_t0_to_this": false
+}

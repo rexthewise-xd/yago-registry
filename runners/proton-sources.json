@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ge-proton",
+    "name": "GE-Proton",
+    "owner": "GloriousEggroll",
+    "repo": "proton-ge-custom",
+    "archive_exts": [".tar.gz", ".tar.xz", ".tar.zst"]
+  },
+  {
+    "id": "proton-cachyos",
+    "name": "Proton-CachyOS",
+    "owner": "CachyOS",
+    "repo": "proton-cachyos",
+    "archive_exts": [".tar.gz", ".tar.xz", ".tar.zst"]
+  },
+  {
+    "id": "dw-proton",
+    "name": "DW-Proton",
+    "owner": "Dawn-Wings",
+    "repo": "DW-Proton",
+    "archive_exts": [".tar.gz", ".tar.xz", ".tar.zst"]
+  }
+]

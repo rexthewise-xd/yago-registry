@@ -1,0 +1,23 @@
+[
+  {
+    "id": "orfix",
+    "name": "ORFix",
+    "description": "Object Rendering Fix for Genshin Impact (LeoTools)",
+    "repo": "leotorrez/LeoTools",
+    "applicable_games": ["genshin"]
+  },
+  {
+    "id": "texfx",
+    "name": "TexFx",
+    "description": "Advanced texture effects, uncensor, and photosensitivity protection",
+    "repo": "SinsOfSeven/TexFx",
+    "applicable_games": ["genshin", "hsr", "zzz", "wuwa"]
+  },
+  {
+    "id": "rabbitfx",
+    "name": "RabbitFX",
+    "description": "Universal visual shader enhancement library for ZZZ, WuWa, and Endfield",
+    "repo": "SilentNightSound/RabbitFX",
+    "applicable_games": ["zzz", "wuwa", "endfield"]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "xxmi-3dmigoto",
+  "name": "XXMI / 3DMigoto",
+  "common_libs_repo": "SpectrumQT/XXMI-Libs-Package",
+  "strategy": "ini_ast_3dmigoto",
+  "proxy_files": [
+    "d3d11.dll",
+    "d3dcompiler_47.dll",
+    "d3dcompiler_46.dll",
+    "d3dx.ini",
+    "nvapi64.dll",
+    "version.dll",
+    "winmm.dll",
+    "3dmloader.dll",
+    "3dmloader.exe"
+  ],
+  "support_dirs": [
+    "Core",
+    "ShaderFixes"
+  ],
+  "mods_target_dir": "Mods",
+  "config_file": "d3dx.ini",
+  "reload_key": "F10",
+  "dll_overrides": "d3d11,dxgi,d3dcompiler_47=n,b",
+  "shader_fixes_dir": "ShaderFixes"
+}
